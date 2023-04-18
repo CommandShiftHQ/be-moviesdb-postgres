@@ -47,6 +47,6 @@
 
 17. Write a query to get the count of all movies that have a vote average higher than 9 and were released before 2020. 
 
-``sql
+```sql
 ```
 
