@@ -1,4 +1,4 @@
-# Update exercises
+# Solutions: Update exercises
 
 **💡Remember**:
 If you make a mistake you can always remove the container and start a new one.
